@@ -1,5 +1,5 @@
 // Replace with your own API key
-const API_KEY = "ed2fb7decb005fe74b61521e";
+const API_KEY = "YOUR-API-KEY";
 
 // Create container
 const container = document.createElement("div");
@@ -138,3 +138,4 @@ convertBtn.addEventListener("click", convertCurrency);
 
 // Load currencies on start
 loadCurrencies();
+
